@@ -1,6 +1,6 @@
 {
   "name": "redux-restful-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The simple RESTful API wrapper for redux async actions",
   "main": "lib/index.js",
   "scripts": {
