@@ -1,2 +1,2 @@
-# redux-api
-The simple RESTful api wrapper
+# redux-restful-api
+The simple RESTful api wrapper for redux async actions
